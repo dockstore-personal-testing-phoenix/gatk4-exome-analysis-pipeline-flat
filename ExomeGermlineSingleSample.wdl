@@ -1,5 +1,3 @@
-version 1.0
-
 ## Copyright Broad Institute, 2018
 ##
 ## This WDL pipeline implements data pre-processing and initial variant calling (GVCF
