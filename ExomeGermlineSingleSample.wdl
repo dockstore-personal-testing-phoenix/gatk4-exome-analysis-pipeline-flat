@@ -42,7 +42,7 @@ workflow ExomeGermlineSingleSample {
         author: "Testing tester"
         email: "test@oicr.on.ca"
         description: "This description demonstrates how a description in the descriptor overrides the readme.md"
-    }
+  }
 
   input {
     PapiSettings papi_settings
