@@ -39,9 +39,9 @@ import "https://raw.githubusercontent.com/gevro/gatk4-exome-analysis-pipeline-fl
 workflow ExomeGermlineSingleSample {
 
   meta {
-        author: "Testing tester"
-        email: "test@oicr.on.ca"
-        description: "This description demonstrates how a description in the descriptor overrides the readme.md"
+    author: "Testing tester"
+    email: "test@oicr.on.ca"
+    description: "This description demonstrates how a description in the descriptor overrides the readme.md"
   }
 
   input {
